@@ -1,0 +1,5 @@
+Receipt Number: 1
+Medicine Name: Omparazol
+Price: 300.0 Sek
+Quantity Available: 3
+Dosage: 20mg

@@ -1,0 +1,5 @@
+Receipt Number: 5
+Medicine Name: Waran
+Price: 300.0 Sek
+Quantity Available: 1
+Dosage: 5mg

@@ -1,0 +1,5 @@
+Receipt Number: 1
+Medicine Name: Ibuprofen
+Price: 130.0 Sek
+Quantity Available: 5
+Dosage: 200mg

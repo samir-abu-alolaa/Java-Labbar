@@ -1,0 +1,5 @@
+Receipt Number: 4
+Medicine Name: Alvedon
+Price: 60.0 Sek
+Quantity Available: 7
+Dosage: 500mg

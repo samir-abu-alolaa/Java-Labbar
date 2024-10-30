@@ -1,0 +1,5 @@
+Receipt Number: 3
+Medicine Name: Ativan
+Price: 200.0 Sek
+Quantity Available: 10
+Dosage: 4mg
